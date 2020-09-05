@@ -1,4 +1,7 @@
-hi guys this is the master branch. 
+hi guys this is the master branch. Hello I am dhruv.hey!cool.
+okkkkkk
+yaaay.
+hhhhh
 this is the default first branch created by git when you run git init
 this is new
 hii this is new 2
